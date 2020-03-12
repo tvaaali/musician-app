@@ -12,6 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "async": "*",
+    "aws-sdk": "*",
     "express": "^4.16.4",
     "winston": "^3.2.1",
     "yup": "^0.26.10"
